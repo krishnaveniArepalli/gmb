@@ -1,0 +1,10 @@
+Command | What It Does
+git init | Initialize a new Git repo in the current folder
+git clone <url> | Clone a repo from GitHub
+git status | Show file changes (staged, unstaged)
+git add . | Stage all changes
+git commit -m "message" | Commit changes with a message
+git remote add origin <url> | Add GitHub repo as remote
+git push -u origin main | Push code to GitHub
+git pull | Pull latest changes from GitHub
+git log | Show commit history
